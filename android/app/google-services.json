@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "960542920574",
+    "project_id": "sunozara-user-application",
+    "storage_bucket": "sunozara-user-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960542920574:android:4d3bf3211f4c061ee76d2f",
+        "android_client_info": {
+          "package_name": "com.sunozara.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960542920574-ub1uadc9ubkdgfjp9kejhcuap8lgt95r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunozara.user",
+            "certificate_hash": "981cc2b84b8be25663dabdb84443980ae923541b"
+          }
+        },
+        {
+          "client_id": "960542920574-3op6opm6mpmofau2tqa0kplummjf3656.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVD1XqzHffLunH4cL0Cxh1Os55b0_o0Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960542920574-3op6opm6mpmofau2tqa0kplummjf3656.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960542920574-tea94dubq48ebo5vo1qisviqg9pvonf3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunozara.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
